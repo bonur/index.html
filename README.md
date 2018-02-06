@@ -1,5 +1,5 @@
 # index.html
-redirect test
+
 <head>
    <!-- HTML meta refresh URL redirection -->
    <meta http-equiv="refresh"
